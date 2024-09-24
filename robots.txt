@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pvaor.github.io/yJU/sitemap.yJU.gz
